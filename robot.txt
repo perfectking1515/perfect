@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# 사이트맵 위치
+Sitemap: https://fepecyl.com/sitemap.xml
+Sitemap: https://fepecyl.com/feed.xml
+
+# 크롤링 속도 조절 (선택사항)
+Crawl-delay: 1
+
+# 특정 파일 타입 허용
+Allow: /img/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.html$
+
+# 기타 시스템 파일들은 크롤링 불필요 (있다면)
+Disallow: /CNAME
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /README.md
