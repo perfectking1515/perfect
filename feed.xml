@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
-    <title>강남 퍼펙트 가라오케 & 하이퍼블릭</title>
-    <description>논현동 부근에 위치한 강남 최대 규모를 자랑하는 프리미엄 가라오케 & 하이퍼블릭 업소입니다. 최고의 시설, 인테리어, 서비스로 특별한 술자리와 즐거운 시간을 제공합니다.</description>
+    <title>강남 퍼펙트 가라오케 &amp; 하이퍼블릭</title>
+    <description>논현동 부근에 위치한 강남 최대 규모를 자랑하는 프리미엄 가라오케 &amp; 하이퍼블릭 업소입니다. 최고의 시설, 인테리어, 서비스로 특별한 술자리와 즐거운 시간을 제공합니다.</description>
     <link>https://fepecyl.com/</link>
-    <atom:link href="https://fepecyl.com/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 18 Dec 2024 00:00:00 +0900</lastBuildDate>
-    <managingEditor>perfect@fepecyl.com (강남 퍼펙트 가라오케)</managingEditor>
-    <webMaster>perfect@fepecyl.com (강남 퍼펙트 가라오케)</webMaster>
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0900</lastBuildDate>
     <generator>강남 퍼펙트 가라오케</generator>
-    <docs>https://www.rssboard.org/rss-specification</docs>
     <ttl>1440</ttl>
     
     <item>
-      <title>강남 퍼펙트 가라오케 시스템 & 이용안내 | 24시간 운영</title>
+      <title>강남 퍼펙트 가라오케 시스템 &amp; 이용안내 | 24시간 운영</title>
       <description>강남 퍼펙트 가라오케 시스템은 70여 개의 룸을 보유하고 있으며, 연중무휴 24시간 운영됩니다. 선릉역에서 도보로 3분 거리에 위치해 있어 접근성도 뛰어납니다. 이곳은 최신 음악과 최첨단 사운드 시스템을 갖추고 있어 방문객들에게 최고 수준의 가라오케 경험을 제공합니다.</description>
       <link>https://fepecyl.com/sub_01.html</link>
       <guid>https://fepecyl.com/sub_01.html</guid>
@@ -36,8 +32,8 @@
     </item>
     
     <item>
-      <title>강남 퍼펙트 가라오케 & 하이퍼블릭 | 우찬 010-3104-7706</title>
-      <description>논현동 부근에 위치한 '강남 퍼펙트 가라오케'는 강남 최대 규모를 자랑하는 프리미엄 가라오케 & 하이퍼블릭 업소입니다. 최고의 시설, 인테리어, 서비스로 특별한 술자리와 즐거운 시간을 제공합니다. 70여개 룸 보유, 전문 스태프의 맞춤형 서비스, 24시간 연중무휴 운영.</description>
+      <title>강남 퍼펙트 가라오케 &amp; 하이퍼블릭 | 우찬 010-3104-7706</title>
+      <description>논현동 부근에 위치한 강남 퍼펙트 가라오케는 강남 최대 규모를 자랑하는 프리미엄 가라오케 &amp; 하이퍼블릭 업소입니다. 최고의 시설, 인테리어, 서비스로 특별한 술자리와 즐거운 시간을 제공합니다. 70여개 룸 보유, 전문 스태프의 맞춤형 서비스, 24시간 연중무휴 운영.</description>
       <link>https://fepecyl.com/</link>
       <guid>https://fepecyl.com/</guid>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0900</pubDate>
